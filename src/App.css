@@ -7,13 +7,18 @@
   pointer-events: none;
 }
 
+.logo img{
+  width:400px ;
+  height: 150px; ;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
 
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -22,7 +27,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+} */
 
 .App-link {
   color: #61dafb;
@@ -35,4 +40,41 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  display: grid;
+}
+
+.artcard {
+  height: 400px;
+  width: 200px;
+  /* display: grid;
+  grid-template-rows: max-content 200px 1fr; */
+  /* flex: 0 1 500px; */
+  box-sizing: border-box;
+  border-color: black;
+  border-radius: 2px;
+  border-style: solid;
+}
+
+.artcard img{
+  /* height: 100%; */
+  width: 100%;
+  object-fit: cover;
+  /* border-radius: 12px; */
+  /* height: 214px; */
+
+}
+
+.cardcontainer {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  box-sizing: border-box;
+  gap: 20px;
+  
+  
+
 }
