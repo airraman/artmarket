@@ -1,8 +1,102 @@
 {"art":[
-    {"First Name":"Banky","Last Name":"Anon","Title":"Parliament Devolved","Price":"500","Location":"Bushwick","URL":"https://sothebys-com.brightspotcdn.com/cc/ae/dd9608674cfd977dddeb5ca4091d/001l19024-bbws6.jpg"},
-    {"First Name":"Rene","Last Name":"Magritte","Title":"La Vengeance","Price":"750","Location":"Williamsburg","URL":"https://www.art.salon/images/rene-magritte_la-vengeance_AID381267.jpg?f=grey"},
-    {"First Name":"Elaine","Last Name":"De Koonig","Title":"JFK","Price":"400","Location":"Prospect Park","URL":"https://th-thumbnailer.cdn-si-edu.com/2LEhDQtsV-rMZqekBakVVxmI578=/fit-in/1072x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/40/58/4058d41a-17ce-45fe-979f-beb800a39f3f/untitled-1detail.jpg"},
-    {"First Name":"Andy","Last Name":"Warhol","Title":"Marilyn","Price":"250","Location":"East Village","URL":"https://d5wt70d4gnm1t.cloudfront.net/media/a-s/artworks/andy-warhol/99155-583004233591/andy-warhol-marilyn-monroe-stickers-800x800.jpg"},
-    {"First Name":"Jean-Michel","Last Name":"Basquiat","Title":"The Guilt of Gold Teeth","Price":"800","Location":"Prospect Park","URL":"https://www.artnews.com/wp-content/uploads/2021/10/BASQUIAT-The-Guilt-of-Gold-Teeth.jpg?w=1024"}
-    ]
+    {
+     "firstname": "Banky",
+     "lastname": "Anon",
+     "title": "Parliament Devolved",
+     "medium": "Oil on Canvas",
+     "description": "Replacing British politicians in the House of Commons with chimpanzees",
+     "size": "2.5m x 4.2m",
+     "price": 500,
+     "location": "Bushwick",
+     "url": "https:\/\/sothebys-com.brightspotcdn.com\/cc\/ae\/dd9608674cfd977dddeb5ca4091d\/001l19024-bbws6.jpg"
+    },
+    {
+     "firstname": "Rene",
+     "lastname": "Magritte",
+     "title": "La Vengeance",
+     "medium": "Gauche on Paper",
+     "description": "A mountainous landscape beneath a cloud-flecked sky resting on an easel",
+     "size": "33 x 32.4 cm",
+     "price": 750,
+     "location": "Williamsburg",
+     "url": "https:\/\/www.art.salon\/images\/rene-magritte_la-vengeance_AID381267.jpg?f=grey"
+    },
+    {
+     "firstname": "Elaine",
+     "lastname": "De Koonig",
+     "title": "JFK",
+     "medium": "Oil on Canvas",
+     "description": "The artists take on the restless energy of the former president",
+     "size": "115.x 262.9 cm",
+     "price": 400,
+     "location": "Prospect Park",
+     "url": "https:\/\/th-thumbnailer.cdn-si-edu.com\/2LEhDQtsV-rMZqekBakVVxmI578=\/fit-in\/1072x0\/https:\/\/tf-cmsv2-smithsonianmag-media.s3.amazonaws.com\/filer\/40\/58\/4058d41a-17ce-45fe-979f-beb800a39f3f\/untitled-1detail.jpg"
+    },
+    {
+     "firstname": "Andy",
+     "lastname": "Warhol",
+     "title": "Marilyn",
+     "medium": "Screenprint",
+     "description": "The artist depicts a hollywood darling through screen print",
+     "size": "91.5 x 91.5 cm",
+     "price": 250,
+     "location": "East Village",
+     "url": "https://cdn.artcld.com/img/w_1920,h_1920,c_fit/ij0ti2n7ruv3a8gfmuvo.jpg"
+    },
+    {
+     "firstname": "Jean-Michel",
+     "lastname": "Basquiat",
+     "title": "The Guilt of Gold Teeth",
+     "medium": "Acrylic",
+     "description": "A self portrait",
+     "size": "240 x 412.3 cm",
+     "price": 800,
+     "location": "Prospect Park",
+     "url": "https:\/\/www.artnews.com\/wp-content\/uploads\/2021\/10\/BASQUIAT-The-Guilt-of-Gold-Teeth.jpg?w=1024"
+    },
+    {
+     "firstname": "Keith",
+     "lastname": "Herring",
+     "title": "Five Dancing Figures",
+     "medium": "Oil on Canvas",
+     "description": "Figures displayed in kinetic action",
+     "size": "54.6 x 80 cm",
+     "price": 900,
+     "location": "East Village",
+     "url": "https://image.invaluable.com/housePhotos/twents/39/721039/H4166-L284967104_original.jpg"
+    },
+    {
+     "firstname": "Frida ",
+     "lastname": "Kahlo",
+     "title": "La Venadita",
+     "medium": "Oil on Masonite",
+     "description": "A self mythologyzing self portrait",
+     "size": "22.9 x 30.5 cm",
+     "price": 850,
+     "location": "Prospect Park",
+     "url": "https:\/\/d32dm0rphc51dk.cloudfront.net\/knM6t1PJXeElSTfjUfAeXA\/large.jpg"
+    },
+    {
+     "firstname": "Brian ",
+     "lastname": "Donnelly",
+     "title": "Alone Again",
+     "medium": "Print",
+     "description": "A vivid mural with electrifying colors",
+     "size": "81.3 x 135.3 cm",
+     "price": 730,
+     "location": "Bushwick",
+     "url": "https:\/\/d7hftxdivxxvm.cloudfront.net\/?resize_to=fit&width=800&height=480&quality=80&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F6qPZInxo7wbdKjLKcmhwdw%2Fnormalized.jpg"
+    },
+    {
+     "firstname": "Salvador",
+     "lastname": "Dalie",
+     "title": "The Persistence of Memory",
+     "medium": "Oil on Bronze",
+     "description": "A reflection on the omnipresence of time and its mastery over humans",
+     "size": ".9 x 1.1 cm",
+     "price": 670,
+     "location": "Williamsburg",
+     "url": "https:\/\/ychef.files.bbci.co.uk\/624x351\/p0521q8t.jpg"
+    }
+   ]
 }

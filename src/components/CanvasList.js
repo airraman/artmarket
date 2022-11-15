@@ -1,7 +1,7 @@
 import React from "react"
 import CanvasCard from "./CanvasCard";
 
-function CanvasList({artists}){
+function CanvasList({artists, handleReveal}){
     return(
         <div className="cardcontainer">
              {artists.map((piece) => {
